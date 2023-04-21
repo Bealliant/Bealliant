@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "esp-idf/esp_timer",
+		"source" : "D:/ESP32/esp-idf-v4.4/components/esp_timer"
+	}
+}
